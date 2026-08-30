@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,20:0D0015,40:25003F,60:6A1B9A,80:D026FF,100:FF4FD8&text=BRUNA%20MARTINS&fontColor=FFFFFF&fontSize=54&fontAlignY=36&desc=AN%C3%81LISE%20%26%20DESENVOLVIMENTO%20DE%20SISTEMAS&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=BRUNA%20MARTINS&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=AN%C3%81LISE%20%26%20DESENVOLVIMENTO%20DE%20SISTEMAS&descAlignY=60&descSize=17&animation=fadeIn&gradient=true&customColorList=0,12,18,20,24,30" width="100%"/>
 
 <br>
 
@@ -55,7 +55,7 @@ Cada repositório representa uma parte do que estou aprendendo.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=BRUNA&fontColor=FFFFFF&fontSize=35&fontAlignY=50&color=gradient&customColorList=6,12,18" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=BRUNA&fontColor=FFFFFF&fontSize=35&fontAlignY=50&color=7B2FFF" width="90%"/>
 
 <br><br>
 
@@ -88,7 +88,7 @@ Cybersecurity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7B2FFF,50:D026FF,100:FF4FD8&section=header" width="85%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7B2FFF&section=header" width="85%"/>
 
 </div>
 
@@ -174,6 +174,7 @@ Cybersecurity
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
 ### 🌱 AGORA
@@ -221,6 +222,7 @@ Arquitetura
 Novos desafios
 
 </td>
+
 </tr>
 </table>
 
@@ -328,17 +330,13 @@ Um espaço para os projetos que ainda vou criar quando chegar na parte de Cybers
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=D026FF&center=true&vCenter=true&width=720&lines=%24+java+%3E%3E+aprendendo; %24+sql+%3E%3E+praticando; %24+backend+%3E%3E+construindo; %24+cybersecurity+%3E%3E+em+breve" alt="Current focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=D026FF&center=true&vCenter=true&width=720&lines=%24+java+%3E%3E+aprendendo;%24+sql+%3E%3E+praticando;%24+backend+%3E%3E+construindo;%24+cybersecurity+%3E%3E+em+breve" alt="Current focus"/>
 
 </div>
 
 <br>
 
 <div align="center">
-
-<table>
-<tr>
-<td>
 
 ```text
 ┌────────────────────────────────────────────┐
@@ -351,6 +349,6 @@ Um espaço para os projetos que ainda vou criar quando chegar na parte de Cybers
 │   🔧 Git                 ██████░░░░  60%   │
 │   🌐 Backend             █████░░░░░  50%   │
 │                                            │
-│   next → APIs + projects                  │
+│   next → APIs + projects                   │
 │                                            │
 └────────────────────────────────────────────┘
