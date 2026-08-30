@@ -333,5 +333,3 @@ Um espaço para os projetos que ainda vou criar quando chegar na parte de Cybers
 </div>
 
 <br>
-
-<div align="center">
