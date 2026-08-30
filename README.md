@@ -27,19 +27,19 @@ Quero aprender a pensar como alguém que programa.»
 
 </td><td width="45%" valign="top"><div align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=BRUNA&fontColor=FFFFFF&fontSize=35&fontAlignY=50&color=7B2FFF" width="90%"/><br><br>
 
-🎓 ADS
+🎓 Formação:
 Análise e Desenvolvimento de Sistemas
 
-☕ FOCO
+☕ Foco:
 Java & Backend
 
-🗄️ ESTUDANDO
+🗄️ Estudando:
 SQL & Databases
 
-🧠 PRATICANDO
+🧠 Praticando:
 Lógica & Algoritmos
 
-🔐 FUTURO
+🔐 Futuro:
 Cybersecurity
 
 <br>"19 anos" • "Brasil" • "dev em formação"
