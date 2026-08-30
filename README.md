@@ -1,4 +1,4 @@
-![Banner](https://vercel.app)
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050510,25:26004D,50:7B2FFF,75:D026FF,100:FF4FD8&text=BRUNA%20MARTINS&fontColor=FFFFFF&fontSize=52&fontAlignY=37&desc=BACKEND%20DEVELOPER%20IN%20FORMATION&descAlignY=61 &descSize=18&animation=fadeIn" width="100%"/
 
 <br>
 
