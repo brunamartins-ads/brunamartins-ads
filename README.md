@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=BRUNA%20MARTINS&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=AN%C3%81LISE%20%26%20DESENVOLVIMENTO%20DE%20SISTEMAS&descAlignY=60&descSize=17&animation=fadeIn&gradient=true&customColorList=0,12,18,20,24,30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:000000,20:0B0012,40:26004D,60:7B2FFF,80:D026FF,100:FF4FD8&text=BRUNA%20MARTINS&fontColor=FFFFFF&fontSize=54&fontAlignY=37&desc=AN%C3%81LISE%20%26%20DESENVOLVIMENTO%20DE%20SISTEMAS&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -352,3 +352,75 @@ Um espaço para os projetos que ainda vou criar quando chegar na parte de Cybers
 │   next → APIs + projects                   │
 │                                            │
 └────────────────────────────────────────────┘
+�
+
+✦ github
+�
+
+�
+￼
+�
+￼
+
+
+
+�
+￼
+�
+
+✦ activity
+�
+
+�
+￼
+�
+
+✦ little achievements
+�
+
+�
+￼
+�
+
+✦ contribution garden
+�
+
+�
+￼
+�
+
+�
+
+💜 um código de cada vez.
+�
+
+
+�
+￼
+
+
+
+�
+
+�
+￼
+�
+
+ 
+�
+
+�
+￼
+�
+
+
+
+
+feito por Bruna Martins • em constante evolução 🌙
+
+
+
+�
+￼
+�
+```
