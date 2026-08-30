@@ -1,23 +1,25 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:101820,100:00ffcc&text=BRUNA%20VITÓRIA&fontColor=00ffcc&fontSize=48&fontAlignY=38&desc=BACKEND%20DEVELOPER%20IN%20FORMATION&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=00FFCC&center=true&vCenter=true&width=800&lines=%3E+Initializing+BrunaOS...;%3E+Loading+Backend+Developer...;%3E+Python+%7C+Algorithms+%7C+Databases;%3E+Building+the+future%2C+one+line+at+a+time...;%3E+Cybersecurity+%5B+future+objective+%5D" alt="Typing Animation"/><br><br>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050510,45:5B0FA8,75:7B2FFF,100:00BFFF&text=BRUNA%20VITÓRIA&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=BACKEND%20DEVELOPER%20IN%20FORMATION&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=B026FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+BrunaOS...;%3E+Loading+Backend+Developer...;%3E+Python+%7C+Algorithms+%7C+Databases;%3E+Building+the+future%2C+one+line+at+a+time...;%3E+Cybersecurity+%5B+future+objective+%5D" alt="Typing Animation"/><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=brunamartins-ads&label=PROFILE%20VIEWS&color=00ffcc&style=for-the-badge" alt="Profile views"/><a href="https://github.com/brunamartins-ads?tab=followers">
-<img src="https://img.shields.io/github/followers/brunamartins-ads?label=FOLLOWERS&style=for-the-badge&color=101820&labelColor=050505" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=brunamartins-ads&label=PROFILE%20VIEWS&color=7B2FFF&style=for-the-badge" alt="Profile views"/><a href="https://github.com/brunamartins-ads?tab=followers">
+<img src="https://img.shields.io/github/followers/brunamartins-ads?label=FOLLOWERS&style=for-the-badge&color=00BFFF&labelColor=050510" alt="Followers"/>
 </a></div>---
 
 <div align="center">╔══════════════════════════════════════════════════════════════╗
 ║                  SYSTEM INITIALIZATION                       ║
 ╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
 ║  USER        :: BRUNA VITÓRIA                                ║
 ║  STATUS      :: ONLINE                                       ║
 ║  SYSTEM      :: ANALYSIS & DEVELOPMENT SYSTEMS               ║
 ║  FOCUS       :: BACKEND DEVELOPMENT                          ║
 ║  NEXT LEVEL  :: CYBERSECURITY                                ║
 ║  CURRENT OS  :: PYTHON + LOGIC + DATABASES                   ║
+║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 
 </div>"> whoami"
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=brunamartins-ads&show_icons=true&hide_border=true&bg_color=050505&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&ring_color=00ffcc" width="400"/>👩‍💻 Sobre Mim
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=brunamartins-ads&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=050510&title_color=B026FF&icon_color=00BFFF&text_color=E6E6FA&ring_color=7B2FFF" width="400"/>👩‍💻 Sobre Mim
 
 Olá! Eu sou Bruna Vitória, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora Backend em formação.
 
@@ -25,7 +27,7 @@ Atualmente estou construindo minha base em programação, com foco principalment
 
 Gosto de entender como as coisas funcionam por trás das interfaces e transformar problemas em soluções através do código.
 
-Meu objetivo é evoluir cada vez mais como desenvolvedora Backend e, posteriormente, aprofundar meus conhecimentos em Cibersegurança.
+Meu objetivo é evoluir como desenvolvedora Backend e, futuramente, aprofundar meus conhecimentos em Cibersegurança.
 
 class Bruna:
 
@@ -52,53 +54,66 @@ class Bruna:
 
 <div align="center">🐍 Programming
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>🧠 Foundations
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/><br>🧠 Logic & Algorithms
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>
-<img src="https://img.shields.io/badge/Logic%20Programming-00FFCC?style=for-the-badge&logo=codeforces&logoColor=050505" height="40"/>
-<img src="https://img.shields.io/badge/Algorithms-00FFCC?style=for-the-badge&logo=thealgorithms&logoColor=050505" height="40"/>🗄️ Databases
+<img src="https://img.shields.io/badge/LOGIC%20PROGRAMMING-7B2FFF?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/ALGORITHMS-B026FF?style=for-the-badge&logo=thealgorithms&logoColor=white"/><br>🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" height="55"/>🔧 Development Tools
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" height="55"/><br>🔧 Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,pycharm,vscode&theme=dark" height="55"/>💻 Environment
+<img src="https://skillicons.dev/icons?i=git,github,pycharm,vscode&theme=dark" height="55"/><br>💻 Environment
 
 <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" height="55"/></div>---
 
 "> tools --used"
 
-<div align="center">Tool| Purpose
-🐍 Python| Programming & Backend foundations
-🧠 PyCharm| Python development
-🐙 Git & GitHub| Version control & projects
-🗄️ SQL / Databases| Data storage & management
-💻 VS Code| Development environment
-🎓 ADS| Systems development & technology
+<div align="center"><table>
+<tr>
+<td align="center" width="180">🐍
 
-</div>---
+Python
+
+Programming & Backend
+
+</td><td align="center" width="180">🐙
+
+Git & GitHub
+
+Version Control
+
+</td><td align="center" width="180">🧠
+
+PyCharm
+
+Python Development
+
+</td><td align="center" width="180">🗄️
+
+SQL
+
+Databases
+
+</td>
+</tr>
+</table></div>---
 
 "> projects --scan"
 
-<div align="center"><table>
-<tr><td width="50%" valign="top"><h3>🐍 Python Exercises</h3><p>
-Collection of programming exercises focused on
-logic, conditions, functions, validation and calculations.
+<div align="center"><table><tr><td width="50%" valign="top"><h3>🐍 Python Exercises</h3><p>
+Projetos e exercícios desenvolvidos durante meus estudos de programação, trabalhando com lógica, condições, funções, validações, cálculos e estruturas de código.
 </p><a href="https://github.com/brunamartins-ads">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00FFCC?style=for-the-badge&logo=github&logoColor=050505"/>
-</a></td><td width="50%" valign="top"><h3>🍺 Boteco Digital Project</h3><p>
-Technology project created to explore digital solutions
-for a local business, customer engagement and online presence.
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7B2FFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a></td><td width="50%" valign="top"><h3>🍺 Boteco Digital</h3><p>
+Projeto voltado para explorar soluções tecnológicas para um negócio real, buscando melhorar presença digital, relacionamento com clientes e divulgação.
 </p><a href="https://github.com/brunamartins-ads">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00FFCC?style=for-the-badge&logo=github&logoColor=050505"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00BFFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a></td></tr><tr><td width="50%" valign="top"><h3>🔐 Backend & Security Lab</h3><p>
-Future project focused on backend development,
-authentication, validation and cybersecurity concepts.
-</p><img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-00FFCC?style=for-the-badge"/></td><td width="50%" valign="top"><h3>🚀 Learning Projects</h3><p>
-Experimental projects created while studying ADS,
-Python, algorithms, databases and software development.
+Área destinada aos futuros projetos de backend, autenticação, validação, segurança e estudos relacionados à cibersegurança.
+</p><img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-B026FF?style=for-the-badge"/></td><td width="50%" valign="top"><h3>🚀 Learning Projects</h3><p>
+Projetos experimentais desenvolvidos durante a graduação em ADS para transformar conhecimento teórico em prática.
 </p><a href="https://github.com/brunamartins-ads?tab=repositories">
-<img src="https://img.shields.io/badge/ALL%20REPOSITORIES-00FFCC?style=for-the-badge&logo=github&logoColor=050505"/>
-</a></td></tr>
-</table></div>---
+<img src="https://img.shields.io/badge/ALL%20REPOSITORIES-7B2FFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a></td></tr></table></div>---
 
 "> current_mission.exe"
 
@@ -130,25 +145,26 @@ bruna@dev:~$ cat goals.txt
 [ ] Deepen cybersecurity knowledge
 
 bruna@dev:~$ echo "Keep building."
+
 Keep building.
 
 ---
 
 "> github --stats"
 
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunamartins-ads&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=050505&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunamartins-ads&layout=compact&hide_border=true&langs_count=8&bg_color=050505&title_color=00ffcc&text_color=c9d1d9"/></div>---
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunamartins-ads&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=050510&title_color=B026FF&icon_color=00BFFF&text_color=E6E6FA"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunamartins-ads&layout=compact&hide_border=true&langs_count=8&bg_color=050510&title_color=00BFFF&text_color=E6E6FA"/></div>---
 
 "> git --streak"
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=brunamartins-ads&theme=dark&hide_border=true&background=050505&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC" alt="GitHub Streak"/></div>---
+<div align="center"><img src="https://streak-stats.demolab.com?user=brunamartins-ads&theme=dark&hide_border=true&background=050510&ring=B026FF&fire=7B2FFF&currStreakLabel=00BFFF&sideLabels=B026FF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/></div>---
 
 "> activity --graph"
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=brunamartins-ads&bg_color=050505&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/></div>---
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=brunamartins-ads&bg_color=050510&color=B026FF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/></div>---
 
 "> achievements --trophies"
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=brunamartins-ads&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies"/></div>---
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=brunamartins-ads&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies"/></div>---
 
 "> contribution --snake"
 
@@ -157,8 +173,8 @@ Keep building.
 "> learning --roadmap"
 
 <div align="center">                         ┌─────────────────┐
-                         │      ADS        │
-                         │    CURRENT      │
+                         │       ADS       │
+                         │     CURRENT     │
                          └────────┬────────┘
                                   │
                                   ▼
@@ -169,7 +185,7 @@ Keep building.
                                   │
                                   ▼
                          ┌─────────────────┐
-                         │   ALGORITHMS    │
+                         │    ALGORITHMS   │
                          │    ███████      │
                          └────────┬────────┘
                                   │
@@ -195,44 +211,29 @@ Keep building.
 
 "> philosophy"
 
-<div align="center">«"Não preciso saber tudo hoje. Preciso continuar aprendendo."»
+<div align="center">💜 "Não preciso saber tudo hoje. Preciso continuar aprendendo."
 
-<br><img src="https://img.shields.io/badge/LEARN-00FFCC?style=for-the-badge&logoColor=050505"/>
-<img src="https://img.shields.io/badge/BUILD-00FFCC?style=for-the-badge&logoColor=050505"/>
-<img src="https://img.shields.io/badge/IMPROVE-00FFCC?style=for-the-badge&logoColor=050505"/>
-<img src="https://img.shields.io/badge/REPEAT-00FFCC?style=for-the-badge&logoColor=050505"/></div>---
+<br><img src="https://img.shields.io/badge/LEARN-7B2FFF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/BUILD-B026FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/IMPROVE-5B0FA8?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/REPEAT-00BFFF?style=for-the-badge&logoColor=white"/></div>---
 
 "> connect --social"
 
 <div align="center"><a href="https://github.com/brunamartins-ads">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FFCC" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-050510?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a><a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FFCC" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-050510?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
 </a></div><br><div align="center">╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║   SYSTEM STATUS: ONLINE                                  ║
+║                 SYSTEM STATUS: ONLINE                    ║
 ║                                                          ║
-║   Building skills.                                      ║
-║   Building projects.                                    ║
-║   Building the future.                                  ║
+║        Building skills.                                  ║
+║        Building projects.                                ║
+║        Building the future.                              ║
 ║                                                          ║
-║   > connection terminated...                             ║
+║                 > connection terminated...              ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ffcc,50:101820,100:050505" width="100%"/></div>## Hi there 👋
-
-<!--
-**brunamartins-ads/brunamartins-ads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050510,40:5B0FA8,75:7B2FFF,100:00BFFF" width="100%"/></div>
