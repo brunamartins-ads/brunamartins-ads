@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:000000,20:0B0012,40:26004D,60:7B2FFF,80:D026FF,100:FF4FD8&text=BRUNA%20MARTINS&fontColor=FFFFFF&fontSize=54&fontAlignY=37&desc=AN%C3%81LISE%20%26%20DESENVOLVIMENTO%20DE%20SISTEMAS&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050510,25:26004D,50:7B2FFF,75:D026FF,100:FF4FD8&text=BRUNA%20MARTINS&fontColor=FFFFFF&fontSize=52&fontAlignY=37&desc=BACKEND%20DEVELOPER%20IN%20FORMATION&descAlignY=61 &descSize=18&animation=fadeIn" width="100%"/
 
 <br>
 
