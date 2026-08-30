@@ -1,147 +1,56 @@
 <div align="center">
 
-# Oi, eu sou a Bruna! 👋
-
-### Estudante de Análise e Desenvolvimento de Sistemas
-### Foco em Backend • Aprendendo Java
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=BRUNA%20MARTINS&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=ANÁLISE%20E%20DESENVOLVIMENTO%20DE%20SISTEMAS&descAlignY=58&descSize=16&animation=fadeIn&color=0:6C2BD9,50:A63CC7,100:F05A9D"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:C850C0,100:FF6B9D&height=120&section=header&text=BRUNA%20MARTINS&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=C86BFF&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+a+Bruna+%F0%9F%91%8B;Estudante+de+ADS;Focada+em+Backend+com+Java;Aprendendo+um+pouco+mais+a+cada+dia;Transformando+estudos+em+projetos"/>
+
+<br>
+
+<a href="https://github.com/brunamartins-ads">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=C86BFF"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=brunamartins-ads&style=flat-square&color=C850C0&label=visitas+ao+perfil"/>
 
 </div>
 
 ---
-
-## 💜 Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou
-construindo meu caminho na área de tecnologia.
-
-Atualmente, estou focada em **desenvolvimento Backend**, principalmente
-em **Java**, e venho criando projetos para colocar em prática tudo
-que estou aprendendo.
-
-Gosto de entender como as coisas funcionam por trás do código e quero
-continuar evoluindo através de projetos, estudos e experiências
-práticas.
-
-Também tenho interesse em **Cybersecurity** e pretendo explorar mais
-essa área no futuro.
-
----
-
-<div align="center">
-
-## ✨ Meu foco atualmente
 
 <table>
 <tr>
-<td align="center" width="180">
+<td width="55%" valign="top">
 
-### 💻
-**Backend**
+## Oi, eu sou a Bruna.
 
-Em evolução
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo meu caminho na tecnologia.
 
-</td>
+Atualmente, meu foco está em **Backend**, principalmente com **Java**.
 
-<td align="center" width="180">
+Ainda estou no começo da jornada, então meu GitHub também é um registro do meu aprendizado: estudos, testes, projetos e tudo aquilo que vou construindo pelo caminho.
 
-### ☕
-**Java**
-
-Estudando
+Gosto da parte de tecnologia que fica por trás das aplicações e quero, aos poucos, transformar conhecimento em projetos cada vez melhores.
 
 </td>
 
-<td align="center" width="180">
+<td width="45%" align="center" valign="middle">
 
-### 🗄️
-**SQL**
+<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,postman,linux&perline=4" width="220"/>
 
-Praticando
+<br><br>
 
-</td>
-
-<td align="center" width="180">
-
-### 📚
-**Aprendizado**
-
-Todos os dias
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📚 O que estou estudando
-
-- ☕ Java
-- 💻 Lógica de programação
-- 🗄️ Banco de dados e SQL
-- 🌐 APIs
-- 🔧 Git e GitHub
-- 🖥️ Fundamentos de Backend
-- 🔐 Conceitos de Cybersecurity
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,postman,linux" />
-
-</div>
-
----
-
-## 🚀 Meus projetos
-
-Estou construindo meus primeiros projetos enquanto avanço na minha
-formação.
-
-### ☕ Projetos em Java
-
-Projetos para praticar:
-
-- Lógica de programação
-- Orientação a objetos
-- Estruturas de dados
-- Organização de código
-- Desenvolvimento Backend
-
-### 🗄️ Banco de dados
-
-Projetos envolvendo:
-
-- SQL
-- MySQL
-- Modelagem de dados
-- Integração entre aplicações e banco de dados
-
-### 🌐 APIs
-
-Projetos para aprender na prática como aplicações Backend funcionam
-e se comunicam.
-
----
-
-<div align="center">
-
-## 📊 GitHub
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=brunamartins-ads&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C850C0&icon_color=6C63FF&text_color=FFFFFF"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunamartins-ads&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C850C0&text_color=FFFFFF"/>
-
-</div>
-
----
-
-## 🌱 Atualmente
+```text
+FOCO
+──────
+Backend
+Java
+SQL
+APIs
+Git
